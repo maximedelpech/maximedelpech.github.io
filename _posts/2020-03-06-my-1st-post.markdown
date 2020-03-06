@@ -1,6 +1,0 @@
----
-title: my 1st post
-date: 2020-03-06 22:17:00 Z
----
-
-Hey there, 1st post but how to publish u_u
