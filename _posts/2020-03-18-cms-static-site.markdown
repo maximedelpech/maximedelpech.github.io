@@ -1,6 +1,7 @@
 ---
 title: CMS static site
 date: 2020-03-18 07:48:00 Z
+author: 
 ---
 
 Hello Maxime
